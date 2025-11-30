@@ -366,7 +366,7 @@
             <div class="contact-info">
                 <p><strong>📧 Email:</strong> <a href="mailto:joelariz@gmail.com">joelariz@gmail.com</a></p>
                 <p><strong>⏱️ Response Time:</strong> We typically respond within 24-48 hours</p>
-                <p><strong>🌐 Website:</strong> <a href="https://joedogg.github.io/emoji-match-site>https://joedogg.github.io/emoji-match-site</a></p>
+                <p><strong>🌐 Website:</strong> <a href="https://joedogg.github.io/emoji-match-site">https://joedogg.github.io/emoji-match-site</a></p>
             </div>
 
             <p style="margin-top: 20px;">When contacting support, please include:</p>
