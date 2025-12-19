@@ -382,23 +382,6 @@
             <p>Enjoying Zen MojiMatch? We'd greatly appreciate a review on the App Store! Your feedback helps us improve the game and reach more players.</p>
             <a href="#" class="button">⭐ Rate on App Store</a>
         </div>
-
-        <!-- Version Info -->
-        <div class="card">
-            <h2>Version Information</h2>
-            <div class="version-info">
-                <p><strong>Current Version:</strong> 1.0.0</p>
-                <p><strong>Last Updated:</strong> November 2025</p>
-            </div>
-
-            <h3>📋 What's New in v1.0.0</h3>
-            <ul>
-                <li>🎉 Initial release!</li>
-                <li>🎮 Physics-based emoji matching gameplay</li>
-                <li>📈 Progressive difficulty</li>
-                <li>💾 Automatic progress saving</li>
-            </ul>
-        </div>
     </div>
 </body>
 </html>
